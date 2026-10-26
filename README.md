@@ -1,5 +1,6 @@
 # 1151VR-HW4-412401484-ChinYiu
 
+<img width="1105" height="574" alt="image" src="https://github.com/user-attachments/assets/b755c9cc-0be3-4d99-b9b2-cd32c96f7d15" />
 
 
 Youtube 連結︰
