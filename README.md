@@ -23,22 +23,22 @@ TextMeshPro 顯示距離終點有多遠
 增加碰撞到石頭時音效 + 石頭上collider 
 增加到達終點時播放音效+ TextMeshPro 顯示GOAL~
 增加切換畫面的button (E)
-將飛行專案打包輸出安裝到手機中運行
+將飛行專案打包輸出安裝到手機中運行<br>
 
 
-(我找不到免費好看的太空船3D 模組只能用飛機了哈哈哈)
+(我找不到免費好看的太空船3D 模組只能用飛機了哈哈哈)<br><br>
 
-所使用到的素材︰
-火炎VFX:https://assetstore.unity.com/packages/vfx/particles/fire-explosions/
-撞到石頭音效: https://pixabay.com/sound-effects/film-special
-BGM:https://pixabay.com/zh/music/main-title-secrets-of-the-jedi-inspired-by-star-wars-331637/ 
-噴射器飛行時音效:https://sonilo.com/royalty-free-sound-effects/aircraft/
-手機搖桿GUI https://assetstore.unity.com/packages/tools/gui/pinepie-joystick-325958 
-機倉內 3D model : https://sketchfab.com/3d-models/a-sci-fi-cockpit-concept
-飛機模組: https://booth.pm/zh-tw/items/7846313
-到達終點音效:https://pixabay.com/sound-effects/search/game/?pagi=2
-Joystick :https://assetstore.unity.com/packages/tools/gui/pinepie-joystick-325958
-隕石3D model: https://assetstore.unity.com/packages/3d/environments/sci-fi/3d-asteroid-pack-263841
-星空SKY BOX: https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333
-地球3D model: https://assetstore.unity.com/packages/3d/environments/sci-fi/planet-earth-free-23399
+所使用到的素材︰<br>
+火炎VFX:https://assetstore.unity.com/packages/vfx/particles/fire-explosions/<br>
+撞到石頭音效: https://pixabay.com/sound-effects/film-special<br>
+BGM:https://pixabay.com/zh/music/main-title-secrets-of-the-jedi-inspired-by-star-wars-331637/ <br>
+噴射器飛行時音效:https://sonilo.com/royalty-free-sound-effects/aircraft/<br>
+手機搖桿GUI https://assetstore.unity.com/packages/tools/gui/pinepie-joystick-325958 <br>
+機倉內 3D model : https://sketchfab.com/3d-models/a-sci-fi-cockpit-concept<br>
+飛機模組: https://booth.pm/zh-tw/items/7846313<br>
+到達終點音效:https://pixabay.com/sound-effects/search/game/?pagi=2<br>
+Joystick :https://assetstore.unity.com/packages/tools/gui/pinepie-joystick-325958<br>
+隕石3D model: https://assetstore.unity.com/packages/3d/environments/sci-fi/3d-asteroid-pack-263841<br>
+星空SKY BOX: https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333<br>
+地球3D model: https://assetstore.unity.com/packages/3d/environments/sci-fi/planet-earth-free-23399<br>
 
